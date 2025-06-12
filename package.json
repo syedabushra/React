@@ -1,0 +1,30 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "This is React by Bushra",
+  "homepage": "https://github.com/syedabushra/React#readme",
+  "bugs": {
+    "url": "https://github.com/syedabushra/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedabushra/React.git"
+  },
+  "license": "ISC",
+  "author": "Syeda Bushra Fatima",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "Last 2 versions"
+  ]
+}
